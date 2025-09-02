@@ -8,3 +8,7 @@ structure(iris)
 ```{r}
 plot(iris$Sepal.Length,iris$Sepal.Width)
 ```
+
+```{r}
+plot(iris$Sepal.Length,iris$Petal.Length)
+```
